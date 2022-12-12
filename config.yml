@@ -1,0 +1,12 @@
+baseURL: ""
+languageCode: en-us
+title: My New Hugo Site
+theme: LoveIt
+
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
